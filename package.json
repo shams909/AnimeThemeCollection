@@ -3,7 +3,7 @@
   "displayName": "Anime Theme Collection",
   "description": "A massive, aesthetic VS Code theme bundle featuring 41 premium themes inspired by iconic anime characters and worlds.",
   "version": "1.0.0",
-  "publisher": "anime-themes",
+  "publisher": "Shams",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -222,7 +222,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shams/gojo-infinity-theme"
+    "url": "https://github.com/shams909/AnimeThemeCollection"
   },
   "keywords": [
     "theme",
