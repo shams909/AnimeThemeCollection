@@ -1,3 +1,6 @@
+### Feel free to reach out to me for feedback or u can request me bout any new theme u want and I'd genuinely love it
+
+
 # Anime Theme Collection
 
 The ultimate collection of 41 highly aesthetic, premium VS Code themes inspired by iconic anime characters, powers, and worlds.
