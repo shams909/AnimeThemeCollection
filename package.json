@@ -1,0 +1,251 @@
+{
+  "name": "anime-theme-collection",
+  "displayName": "Anime Theme Collection",
+  "description": "A massive, aesthetic VS Code theme bundle featuring 41 premium themes inspired by iconic anime characters and worlds.",
+  "version": "1.0.0",
+  "publisher": "anime-themes",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gojo Infinity Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-infinity-color-theme.json"
+      },
+      {
+        "label": "Gojo Six Eyes (Blue)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-six-eyes-color-theme.json"
+      },
+      {
+        "label": "Gojo Red Reversal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-red-reversal-color-theme.json"
+      },
+      {
+        "label": "Gojo Limitless Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-limitless-dark-color-theme.json"
+      },
+      {
+        "label": "Gojo Limitless Light",
+        "uiTheme": "vs",
+        "path": "./themes/gojo-limitless-light-color-theme.json"
+      },
+      {
+        "label": "Gojo Hollow Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-hollow-purple-color-theme.json"
+      },
+      {
+        "label": "Gojo Black Flash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-black-flash-color-theme.json"
+      },
+      {
+        "label": "Gojo Cursed Pink (Cherry Blossom)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-cursed-pink-color-theme.json"
+      },
+      {
+        "label": "Gojo Sunset Orange (Productive Amber)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-sunset-orange-color-theme.json"
+      },
+      {
+        "label": "Gojo Pure Orange (Vibrant Citrus)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-pure-orange-color-theme.json"
+      },
+      {
+        "label": "Gojo Blood Orange (Red-Orange)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gojo-blood-orange-color-theme.json"
+      },
+      {
+        "label": "Naruto Nine Tails",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-nine-tails-color-theme.json"
+      },
+      {
+        "label": "Sakura Healing Blossom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-healing-blossom-color-theme.json"
+      },
+      {
+        "label": "Sasuke Uchiha (Amaterasu/Susanoo)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sasuke-uchiha-color-theme.json"
+      },
+      {
+        "label": "Kakashi Hatake (Sharingan/Chidori)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kakashi-hatake-color-theme.json"
+      },
+      {
+        "label": "Sukuna (King of Curses)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sukuna-king-of-curses-color-theme.json"
+      },
+      {
+        "label": "Zoro (Three Sword Style)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zoro-three-sword-style-color-theme.json"
+      },
+      {
+        "label": "Killua Zoldyck (Godspeed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/killua-godspeed-color-theme.json"
+      },
+      {
+        "label": "Ichigo (Mugetsu)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ichigo-mugetsu-color-theme.json"
+      },
+      {
+        "label": "Eren (Founding Titan)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eren-founding-titan-color-theme.json"
+      },
+      {
+        "label": "Tanjiro (Hinokami Kagura)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tanjiro-hinokami-kagura-color-theme.json"
+      },
+      {
+        "label": "Zenitsu (Thunder Breathing)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zenitsu-thunder-color-theme.json"
+      },
+      {
+        "label": "Rengoku (Flame Hashira)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rengoku-flame-theme.json"
+      },
+      {
+        "label": "Sung Jin-Woo (Shadow Monarch)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jinwoo-shadow-monarch-theme.json"
+      },
+      {
+        "label": "Toji Fushiguro (Sorcerer Killer)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toji-sorcerer-killer-theme.json"
+      },
+      {
+        "label": "Luffy Gear 5 (Sun God Nika)",
+        "uiTheme": "vs",
+        "path": "./themes/luffy-gear-5-color-theme.json"
+      },
+      {
+        "label": "Escanor (Pinnacle of Humanity)",
+        "uiTheme": "vs",
+        "path": "./themes/escanor-pinnacle-color-theme.json"
+      },
+      {
+        "label": "Light Yagami (Kira)",
+        "uiTheme": "vs",
+        "path": "./themes/light-yagami-kira-color-theme.json"
+      },
+      {
+        "label": "Tengen Uzui (Flashy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tengen-uzui-flashy-color-theme.json"
+      },
+      {
+        "label": "Jotaro Kujo (Star Platinum)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jotaro-star-platinum-color-theme.json"
+      },
+      {
+        "label": "Nezuko Kamado (Blood Demon Art)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nezuko-kamado-color-theme.json"
+      },
+      {
+        "label": "Your Name (Twilight)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/your-name-twilight-theme.json"
+      },
+      {
+        "label": "5 Centimeters per Second (Sakura Drop)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/5cm-blossom-color-theme.json"
+      },
+      {
+        "label": "Cowboy Bebop (Space Cowboy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cowboy-bebop-space-color-theme.json"
+      },
+      {
+        "label": "Zero Two (Darling in the Franxx)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zero-two-franxx-color-theme.json"
+      },
+      {
+        "label": "Zero Two Light (Darling)",
+        "uiTheme": "vs",
+        "path": "./themes/zero-two-franxx-light-color-theme.json"
+      },
+      {
+        "label": "Gilgamesh (Gate of Babylon)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gilgamesh-gold-color-theme.json"
+      },
+      {
+        "label": "Frieren (Elven Magic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/frieren-frost-color-theme.json"
+      },
+      {
+        "label": "Roronoa Zoro (Asura)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zoro-asura-color-theme.json"
+      },
+      {
+        "label": "Aizen (Hueco Mundo)",
+        "uiTheme": "vs",
+        "path": "./themes/aizen-hueco-mundo-color-theme.json"
+      },
+      {
+        "label": "Oshi no Ko (Ai's Eyes)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oshino-ko-ai-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shams/gojo-infinity-theme"
+  },
+  "keywords": [
+    "theme",
+    "themes",
+    "color-theme",
+    "anime",
+    "anime theme",
+    "best theme",
+    "dark theme",
+    "light theme",
+    "aesthetic",
+    "manga",
+    "cute",
+    "beautiful",
+    "pink",
+    "jujutsu kaisen",
+    "naruto",
+    "one piece",
+    "demon slayer",
+    "solo leveling"
+  ],
+  "galleryBanner": {
+    "color": "#090A0F",
+    "theme": "dark"
+  }
+}
