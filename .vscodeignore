@@ -7,7 +7,6 @@ src/**
 **/*.map
 **/*.ts
 out.txt
-generate_icons.py
-build_font.js
-.fantasticonrc.js
+*.py
+font/**
 *.vsix

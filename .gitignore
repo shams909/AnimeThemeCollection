@@ -1,6 +1,9 @@
 node_modules/
 out/
+font/
 .vscode-test/
 *.vsix
 out.txt
+*.py
 .DS_Store
+package-lock.json
