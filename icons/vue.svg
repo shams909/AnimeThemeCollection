@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="8,10 50,88 92,10 75,10 50,58 25,10" fill="#4ADE80" stroke="#16A34A" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="25,10 50,58 75,10 60,10 50,38 40,10" fill="#86EFAC" stroke="#16A34A" stroke-width="2" stroke-linejoin="round"/>
+</svg>

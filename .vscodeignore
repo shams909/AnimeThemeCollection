@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+node_modules/**
+src/**
+.gitignore
+.yarnrc
+**/*.map
+**/*.ts
+out.txt
+generate_icons.py
+build_font.js
+.fantasticonrc.js
+*.vsix

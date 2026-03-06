@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 35 Q20 15 35 35 Q50 55 65 35 Q80 15 95 35" stroke="#06B6D4" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M5 55 Q20 35 35 55 Q50 75 65 55 Q80 35 95 55" stroke="#22D3EE" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M5 75 Q20 55 35 75 Q50 95 65 75 Q80 55 95 75" stroke="#67E8F9" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

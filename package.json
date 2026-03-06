@@ -2,7 +2,7 @@
   "name": "anime-theme-collection",
   "displayName": "Anime Theme Collection",
   "description": "A massive, aesthetic VS Code theme bundle featuring 41 premium themes inspired by iconic anime characters and worlds.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "Shams",
   "engines": {
     "vscode": "^1.80.0"
@@ -217,12 +217,19 @@
         "uiTheme": "vs-dark",
         "path": "./themes/oshino-ko-ai-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "anime-file-icons",
+        "label": "Anime File Icons",
+        "path": "./anime-file-icon-theme.json"
+      }
     ]
   },
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shams909/AnimeThemeCollection"
+    "url": "git+https://github.com/shams909/AnimeThemeCollection.git"
   },
   "keywords": [
     "theme",
@@ -247,5 +254,22 @@
   "galleryBanner": {
     "color": "#090A0F",
     "theme": "dark"
+  },
+  "main": "soften.js",
+  "activationEvents": [
+    "*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shams909/AnimeThemeCollection/issues"
+  },
+  "homepage": "https://github.com/shams909/AnimeThemeCollection#readme",
+  "devDependencies": {
+    "fantasticon": "^4.1.0"
   }
 }

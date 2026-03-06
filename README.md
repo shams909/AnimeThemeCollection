@@ -1,10 +1,80 @@
 # Anime Theme Collection
 
-The ultimate collection of 41 highly aesthetic, premium VS Code themes inspired by iconic anime characters, powers, and worlds.
+![Version](https://img.shields.io/badge/version-v2.0.0-blueviolet?style=for-the-badge) ![Themes](https://img.shields.io/badge/themes-41-crimson?style=for-the-badge) ![Icons](https://img.shields.io/badge/file%20icons-41-orange?style=for-the-badge) ![License](https://img.shields.io/badge/license-ISC-green?style=for-the-badge)
 
-## 🎨 Included Themes & Previews
+The ultimate collection of **41 premium VS Code color themes** + a brand new **Anime File Icon Theme** — all inspired by iconic anime characters, powers, and worlds. Code in style. Code like a shinobi.
 
-*A massive showcase of our 41 premium anime aesthetics. Find your next favorite workspace vibe below!*
+---
+
+## 🚀 What's New in v2.0.0
+
+> **The biggest update yet.** Version 2.0.0 introduces the all-new **Anime File Icon Theme** — 41 hand-crafted custom SVG icons that transform every single file type in your explorer into an anime symbol. Every language has its own unique icon.
+
+### ✨ v2.0.0 Highlights
+| | Feature | Details |
+|---|---|---|
+| 🎨 | **41 Color Themes** | All original themes from v1.0.0, fully preserved |
+| 🗂️ | **NEW: Anime File Icons** | 41 unique anime-styled SVG icons for every file type |
+| 📁 | **95+ Extensions Covered** | JS, TS, Python, Rust, Go, Java, C++, Ruby, Swift, Dart & more |
+| 🧹 | **Clean Build** | Proper `.vscodeignore` & `.gitignore` — zero junk in the package |
+
+---
+
+## 🗂️ Anime File Icon Theme — NEW in v2.0.0
+
+Switch to **"Anime File Icons"** via `File > Preferences > File Icon Theme` to transform your explorer sidebar.
+
+Every language category has its own unique anime-designed SVG icon:
+
+| Icon | Anime Symbol | File Types |
+|---|---|---|
+| 🔴 Red Sharingan | Uchiha Eye | `.js` `.mjs` `.cjs` |
+| 🔵 Blue Sharingan | Six Eyes | `.ts` `.mts` `.cts` |
+| ⚛️ Blue Atom | React Orbitals | `.jsx` |
+| 🩵 Cyan Atom | TypeScript React | `.tsx` |
+| 🍃 Green V-Chevron | Vue Leaf | `.vue` |
+| 🛡️ Orange Shield | Svelte Power | `.svelte` |
+| 📄 Orange Arrows | HTML Shield | `.html` `.htm` |
+| 🔵 Blue Pokéball | CSS Ball | `.css` `.less` |
+| 🩷 Pink Pokéball | SCSS Ball | `.scss` `.sass` |
+| 🔮 Purple Cursed Seal | Jujutsu Kaisen Seal | `.json` `.jsonc` `.lock` |
+| 🟢 Teal Cursed Seal | Config Seal | `.yaml` `.yml` `.env` `.toml` |
+| 🟠 Orange Cursed Seal | XML Seal | `.xml` |
+| ⭐ Gold Shuriken | Ninja Star | `.py` `.ipynb` |
+| ⚙️ Amber Gear Wheel | Rust Cog | `.rs` |
+| 🌊 Cyan Triple Wave | Golang Wave | `.go` |
+| 💜 Violet Pill Badge | PHP Badge | `.php` |
+| 🔥 Red Flame | Java Fire | `.java` `.class` |
+| 🔮 Purple Flame | Kotlin Fire | `.kt` `.kts` |
+| 🎭 Silver Hollow Mask | Bleach C Mask | `.c` `.h` |
+| 🎭 Orange Hollow Mask | C++ Mask | `.cpp` `.hpp` `.cc` |
+| 🎭 Green Hollow Mask | C# Mask | `.cs` |
+| 🌸 Sakura Blossom | Cherry Blossom | `.md` `.mdx` |
+| 📜 Silver Scroll | Text Parchment | `.txt` `LICENSE` |
+| ⚡ Yellow Lightning | Zenitsu Bolt | `.sh` `.bash` `.zsh` `.fish` |
+| ⚡ Blue Lightning | PowerShell Bolt | `.ps1` `.psm1` |
+| 💎 Blue Crystal Gem | Dockerfile Gem | `Dockerfile` |
+| 👁️ Purple All-Seeing Eye | Anime Eye | `.png` `.jpg` `.gif` `.webp` `.svg` |
+| 💎 Red Ruby Gem | Ruby Gem | `.rb` `.rake` |
+| 🔥 Orange Swift Bird | iOS Swift | `.swift` |
+| 🔷 Blue Dart Arrow | Flutter Dart | `.dart` |
+| 📊 Dark Stats Graph | R Data | `.r` `.rmd` |
+| 🌙 Indigo Crescent Moon | Lua Moon | `.lua` |
+| 🗄️ Green Database Cylinder | SQL DB | `.sql` `.sqlite` `.db` |
+| 📋 Red Document | PDF File | `.pdf` |
+| 🎵 Purple Sound Wave | Audio Files | `.mp3` `.wav` `.ogg` `.flac` |
+| 🎬 Dark Film Reel | Video Files | `.mp4` `.webm` `.mov` `.mkv` |
+| 📦 Gold Archive Box | Compressed | `.zip` `.rar` `.tar` `.gz` `.7z` |
+| 🔤 Letter-A Font | Font Files | `.ttf` `.otf` `.woff` `.woff2` |
+| 📜 Golden Scroll | All Folders (Closed) | Directories |
+| 📂 Open Gold Scroll | All Folders (Open) | Expanded Directories |
+| 🗡️ Silver Kunai | Default Files | All other files |
+
+---
+
+## 🎨 Included Color Themes & Previews
+
+*41 premium anime color themes — find your next favorite workspace vibe below!*
 
 ### 1. Gojo Infinity Dark
 _: Deep space blues with neon purple and blue accents (Hollow Purple aesthetic)._
@@ -305,7 +375,7 @@ VS Code standard themes cannot natively add an image to your editor background. 
 
 ```json
 "background.customImages": [
-    "file:///c:/Users/YourUsername/.vscode/extensions/anime-theme-collection-1.0.0/images/gojo_bg.png"
+    "file:///c:/Users/YourUsername/.vscode/extensions/shams.anime-theme-collection-2.0.0/images/gojo_bg.png"
 ],
 "background.style": {
     "content": "''",
@@ -325,18 +395,41 @@ VS Code standard themes cannot natively add an image to your editor background. 
 
 ---
 
-## Installation
+## 📦 Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Anime Theme Collection`
+### Method 1: VS Code Marketplace (Recommended)
+1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X`)
+2. Search for **`Anime Theme Collection`**
 3. Click **Install**
 4. Click **Reload** to restart VS Code
-5. Go to `File > Preferences > Color Theme` and select your favorite anime theme variant.
+
+### Method 2: Manual VSIX Install
+1. Download the latest `.vsix` from the [GitHub Releases](https://github.com/shams909/AnimeThemeCollection/releases) page
+2. Run: `code --install-extension anime-theme-collection-2.0.0.vsix`
+
+### Activating Your Color Theme
+`File > Preferences > Color Theme` → Select any of the **41 anime themes**
+
+### Activating the Anime File Icons  ✨ NEW
+`File > Preferences > File Icon Theme` → Select **"Anime File Icons"**
 
 ## Vibe
 From Domain Expansions and Cursed Energy to pure Sci-Fi noir and aesthetic pastel pop. Boot up your favorite world and get to coding!
 
 ---
 
-### 🔍 Search Tags (Marketplace Optimization)
-*Anime Theme, Best VS Code Theme, Aesthetic Theme, Dark Mode, Light Mode, Pink Theme, Purple Theme, Neon Theme, Manga, Otaku, Jujutsu Kaisen, JJK, Satoru Gojo, Sukuna, Toji, Naruto, Sasuke, Kakashi, One Piece, Luffy, Zoro, Gear 5, Bleach, Ichigo, Demon Slayer, Kimetsu no Yaiba, Tanjiro, Nezuko, Zenitsu, Rengoku, Solo Leveling, Sung Jin-Woo, Darling in the Franxx, Zero Two, Cowboy Bebop, Frieren, Your Name, Makoto Shinkai, Oshi no Ko, Death Note, Light Yagami, Fate, Gilgamesh, Seven Deadly Sins, Escanor, Minimalist, Cyberpunk, Developer Theme, Coding Aesthetic, Premium Theme, VTuber.*
+## � Changelog
+
+### v2.0.0 — March 2026
+- 🆕 **Added Anime File Icon Theme** with 41 unique hand-crafted SVG icons
+- 🆕 **95+ file extensions** now have unique anime-styled icons
+- 🆕 Added icons for Ruby, Swift, Dart, R, Lua, SQL, PDF, Audio, Video, Zip, Font
+- 🧹 Added `.vscodeignore` and `.gitignore` for a clean, professional build
+
+### v1.0.0 — February 2026
+- 🎨 Initial release with 41 premium anime color themes
+
+---
+
+### 🔍 Search Tags
+*Anime Theme, File Icon Theme, VS Code Icons, Best VS Code Theme, Aesthetic Theme, Custom Icons, Dark Mode, Light Mode, Pink Theme, Purple Theme, Neon Theme, Manga, Otaku, Jujutsu Kaisen, JJK, Satoru Gojo, Sukuna, Toji, Naruto, Sasuke, Kakashi, One Piece, Luffy, Zoro, Bleach, Ichigo, Demon Slayer, Tanjiro, Nezuko, Zenitsu, Rengoku, Solo Leveling, Sung Jin-Woo, Zero Two, Cowboy Bebop, Frieren, Your Name, Oshi no Ko, Death Note, Light Yagami, Gilgamesh, Escanor, Cyberpunk, Developer Theme, Coding Aesthetic, Premium Theme.*
