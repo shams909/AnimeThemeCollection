@@ -1,3 +1,6 @@
+### Feel free to reach out to me for feedback or u can request me bout any new theme u want and I'd genuinely love it
+
+
 # Anime Theme Collection
 
 ![Version](https://img.shields.io/badge/version-v2.0.0-blueviolet?style=for-the-badge) ![Themes](https://img.shields.io/badge/themes-41-crimson?style=for-the-badge) ![Icons](https://img.shields.io/badge/file%20icons-41-orange?style=for-the-badge) ![License](https://img.shields.io/badge/license-ISC-green?style=for-the-badge)
